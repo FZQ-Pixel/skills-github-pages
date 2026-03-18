@@ -1,4 +1,4 @@
----
-title: "my-first-blog"
-date: 2026-03-18
-#我的第一篇博客---
+title: 你的博客名称
+theme: minima
+baseurl: "" # 子路径部署时填写，否则留空
+url: "https://你的用户名.github.io"
